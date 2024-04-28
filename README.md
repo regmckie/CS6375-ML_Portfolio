@@ -14,4 +14,4 @@ The objectives are to:
 - Compute the similarity between tweets using the Jaccard Distance metric. 
 - Cluster tweets using the K-means clustering algorithm.
 
-The folder for the assignment is located [here.]()
+The folder for the assignment is located [here.](https://github.com/regmckie/CS6375-ML_Portfolio/tree/main/Assignment%202)
