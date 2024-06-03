@@ -15,3 +15,11 @@ The objectives are to:
 - Cluster tweets using the K-means clustering algorithm.
 
 The folder for the assignment is located [here.](https://github.com/regmckie/CS6375-ML_Portfolio/tree/main/Assignment%202)
+
+### Project
+The project has two key components to it: (1) Understanding a recent machine learning technique and associated algorithm(s) and (2) Apply it to a standard dataset of sufficient complexity. You have to code
+the main part of the algorithm without using any built-in library. You can use libraries for pre-processing, loading, analysis of results, etc.
+
+For this project, I decided to code the KNN, logistic regression, and decision tree machine learning algorithms in order to predict the race of randomly generated DnD characters. More details are provided in the "Project" folder where you can read the project's own README.
+
+The folder for the project is located [here.](https://github.com/regmckie/CS6375-ML_Portfolio/tree/main/Project)
