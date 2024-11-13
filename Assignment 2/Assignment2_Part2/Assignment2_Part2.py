@@ -21,6 +21,7 @@
 
 import math
 import re
+import random as rd
 
 '''
 Perform pre-processing on the tweets in the datafile.
